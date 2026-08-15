@@ -1,0 +1,2 @@
+# Multi-Reader
+This project is meant to help with learning a new language. This application, in its final form, will allow the user to import a PDF file, read it, highlight words that the user does not understand, display a translation of it, and save it into a list so that the user may practice them later.
